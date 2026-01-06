@@ -1,0 +1,4 @@
+django
+qdrant-client
+sentence-transformers
+python-dotenv
