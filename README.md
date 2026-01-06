@@ -75,7 +75,7 @@ python manage.py runserver
 
 Open your browser and navigate to: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
-## 🔮 Future Plans
+##  Future Plans
 
 The dataset is planned to be expanded and strengthened with decisions from:
 - European Court of Human Rights (AIHM)
@@ -83,6 +83,6 @@ The dataset is planned to be expanded and strengthened with decisions from:
 - Council of State (Danıştay)
 - Regional Courts of Justice (Bölge Adliye Mahkemeleri)
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is a **public demo** and is **not intended for production use**. It is designed solely to demonstrate the functionality of the system.
