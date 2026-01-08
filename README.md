@@ -1,6 +1,20 @@
-# Legal AI Demo
+# What is tr-law-rag
 
 A minimal Django-based web application that demonstrates a Legal AI input-to-output flow. This project uses AI semantic search to find relevant legal precedents (emsal kararlar) based on user descriptions.
+
+![WhatsApp Image 2026-01-06 at 23 22 04](https://github.com/user-attachments/assets/0e443ecb-953d-4e76-b96b-550f6b2ae95b)
+![WhatsApp Image 2026-01-06 at 23 22 02](https://github.com/user-attachments/assets/6309c440-b37e-4cb0-a8df-0ff317651b09)
+
+
+# What is RAG and Why is It Important
+
+Retrieval-Augmented Generation (RAG) is an approach that combines large language models with external knowledge sources. Instead of relying solely on the model’s internal training data like LLM's, RAG retrieves relevant documents from a knowledge base and uses them as context when generating responses.
+
+This is especially important in domains like law, where accuracy, traceability, and up-to-date information are critical. By grounding model outputs in real documents, RAG reduces hallucinations, improves factual consistency, and enables more reliable, domain-specific question answering. In tr-law-rag, this approach allows the system to generate answers based on actual Turkish legal decisions rather than general assumptions.
+
+# What Makes tr-law-rag Special?
+
+tr-law-rag is first known RAG model trained on Thousands of Turkish Constitutional Court (Anayasa Mahkemesi) decisions.
 
 ## How It Works
 
@@ -82,6 +96,10 @@ The dataset is planned to be expanded and strengthened with decisions from:
 - Court of Cassation (Yargıtay)
 - Council of State (Danıştay)
 - Regional Courts of Justice (Bölge Adliye Mahkemeleri)
+
+GGUF quantized model for applications like:
+- Local sessions solely for privacy
+- Running tr-law-rag on a Raspberry Pi for usecases on the go
 
 ##  Disclaimer
 
