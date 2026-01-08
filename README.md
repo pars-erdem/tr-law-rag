@@ -6,7 +6,7 @@ A minimal Django-based web application that demonstrates a Legal AI input-to-out
 ![WhatsApp Image 2026-01-06 at 23 22 02](https://github.com/user-attachments/assets/6309c440-b37e-4cb0-a8df-0ff317651b09)
 
 
-# What is RAG and Why is It Important
+# What is RAG and Why is It Important?
 
 Retrieval-Augmented Generation (RAG) is an approach that combines large language models with external knowledge sources. Instead of relying solely on the model’s internal training data like LLM's, RAG retrieves relevant documents from a knowledge base and uses them as context when generating responses.
 
