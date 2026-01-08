@@ -1,4 +1,4 @@
-# What is tr-law-rag
+# What is tr-law-rag?
 
 A minimal Django-based web application that demonstrates a Legal AI input-to-output flow. This project uses AI semantic search to find relevant legal precedents (emsal kararlar) based on user descriptions.
 
@@ -16,7 +16,7 @@ This is especially important in domains like law, where accuracy, traceability, 
 
 tr-law-rag is first known RAG model trained on Thousands of Turkish Constitutional Court (Anayasa Mahkemesi) decisions.
 
-## How It Works
+## How It Works?
 
 This project leverages advanced NLP techniques to provide accurate legal search results:
 
